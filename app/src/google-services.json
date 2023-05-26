@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966919576083",
+    "project_id": "login-android-project",
+    "storage_bucket": "login-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966919576083:android:a16e03cc64f5a91a77bde6",
+        "android_client_info": {
+          "package_name": "com.example.interns_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHNlAK3DF9z1MDoyXwJETOXqhqJEBaxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
